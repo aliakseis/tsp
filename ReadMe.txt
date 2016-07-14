@@ -2,32 +2,45 @@
     CONSOLE APPLICATION : tsp Project Overview
 ========================================================================
 
-AppWizard has created this tsp application for you.
+our father, who art in heaven, I didn't understand
+our father, who art in heaven, I had to change my plans
 
-This file contains a summary of what you will find in each of the files that
-make up your tsp application.
+heaven only knows, I'm really on the level
+heaven only knows, I'm trying to find a way
+heaven only knows, I'm walking down a straight and lonely road today
 
+doesn't matter where I try to be
+I'm moving fast but I still can't see the daylight or the rising sun
+all I see are the stars above
 
-tsp.vcproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
+heaven only knows, I'm really on the level
+heaven only knows, I'm trying to find a way
+heaven only knows, I'm walking down a straight and lonely road today
 
-tsp.cpp
-    This is the main application source file.
+I'm sorry that I didn't care, I never saw the signs of beware
+didn't listen, didn't think about her
+I paid the price of being without her
+
+heaven only knows, I'm really on the level
+heaven only knows, I'm trying to find a way
+heaven only knows, I'm walking down a straight and lonely road today
+
+if you could turn night into day, I could stop it slipping away
+
+heaven only knows
+
+heaven only knows, I'm really on the level
+heaven only knows, I'm trying to find a way
+heaven only knows, I'm walking down a straight and lonely road
+
+heaven only knows, heaven only knows, heaven only knows
 
 /////////////////////////////////////////////////////////////////////////////
-Other standard files:
 
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named tsp.pch and a precompiled types file named StdAfx.obj.
+Heaven Only Knows (Alternate Version)
 
 /////////////////////////////////////////////////////////////////////////////
-Other notes:
 
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
+This song is by Electric Light Orchestra and appears on the 2007 reissue of the album Balance of Power (1986).
 
 /////////////////////////////////////////////////////////////////////////////
